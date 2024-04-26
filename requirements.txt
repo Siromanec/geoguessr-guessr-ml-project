@@ -1,0 +1,10 @@
+aiofiles==23.2.1
+py-heat-magic==0.0.2
+shap
+opencv-python==4.9.0.80
+numpy==1.26.4
+torch==2.2.0
+lightning==2.2.1
+albumentations==1.4.0
+pandas==2.1.1
+torchvision==0.17.0
